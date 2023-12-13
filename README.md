@@ -47,9 +47,9 @@ contract BlockchainDeveloper {
 ## 🗂️ Highlight Projects
 
 <a href="https://github.com/magicaleks/RUBM">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=magicaleks&repo=RUBM&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=magicaleks&repo=RUBM&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="RUBM" />
 </a>
 
 <a href="https://github.com/magicaleks/Koroche">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=magicaleks&repo=Koroche&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="crnn-pytorch" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=magicaleks&repo=Koroche&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Koroche.app" />
 </a>
