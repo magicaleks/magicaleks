@@ -46,4 +46,4 @@ contract BlockchainDeveloper {
 
 ## 🗂️ Highlight Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=magicaleks&repo=RUBM&show_owner=true)](https://github.com/magicaleks/RUBM)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=magicaleks&repo=Koroche&show_owner=true)](https://github.com/magicaleks/Koroche)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=magicaleks&repo=go-bingx&show_owner=true)](https://github.com/magicaleks/Koroche)
