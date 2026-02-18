@@ -45,5 +45,3 @@ contract BlockchainDeveloper {
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
 ## 🗂️ Highlight Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=magicaleks&repo=RUBM&show_owner=true)](https://github.com/magicaleks/RUBM)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=magicaleks&repo=go-bingx&show_owner=true)](https://github.com/magicaleks/go-bingx)
