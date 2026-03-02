@@ -98,6 +98,5 @@ void main() {
 ## 📊 GitHub Stats
 
 ![Stats](./profile/stats.svg)
-![Top Languages](./profile/top-langs.svg)
 
-![Streak](https://streak-stats.demolab.com?user=magicaleks&theme=tokyonight&hide_border=true)
+![Top Languages](./profile/top-langs.svg)
