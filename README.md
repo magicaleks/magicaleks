@@ -1,7 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00ADD8&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Aleks+Zenitsin+%F0%9F%91%8B;Backend+Engineer;Python+%2F+Go+%2F+Java+%2F+Elixir)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00ADD8&center=true&vCenter=true&width=500&lines=Hey+there!+%F0%9F%91%8B;AI+%26+Backend+Engineer)](https://git.io/typing-svg)
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/magicaleks)
 ![Profile Views](https://komarev.com/ghpvc/?username=magicaleks&color=00ADD8&style=for-the-badge)
+
+### 🐍 Python — my native language. Production runs on it, and so do I.
 
 ```python
 
@@ -20,6 +22,8 @@ me = BackendEngineer()
 me.say_hi()
 ```
 
+### ⛓️ Solidity — wrote a DeFi protocol, survived.
+
 ```solidity
 
 contract BlockchainDeveloper {
@@ -33,6 +37,8 @@ contract BlockchainDeveloper {
     }
 }
 ```
+
+### 🐹 Go — goroutines at 3am. Zero regrets.
 
 ```go
 
@@ -62,6 +68,8 @@ func main() {
 }
 ```
 
+### ☕ Java — enough to be dangerous. Mostly to myself.
+
 ```java
 
 import java.util.List;
@@ -72,8 +80,7 @@ void main() {
     var stack = List.of(
         new Skill("Python", 4),
         new Skill("Go",     2),
-        new Skill("Java",   3),
-        new Skill("Elixir", 1)
+        new Skill("Java",   3)
     );
 
     stack.stream()
@@ -84,47 +91,18 @@ void main() {
 }
 ```
 
-```elixir
-
-defmodule Pipeline do
-  def deploy([]),            do: IO.puts("✅ All services live")
-  def deploy([svc | rest]) do
-    IO.puts("🔄 Deploying #{svc}...")
-    deploy(rest)
-  end
-end
-
-Pipeline.deploy(~w[api-gateway auth-service payments-api notification-worker])
-```
-
 ## 🔧 Technologies & Tools
 
-![Tech Stack](https://skillicons.dev/icons?i=python,go,java,elixir,fastapi,mongodb,postgresql,docker&theme=dark)
+![Tech Stack](https://skillicons.dev/icons?i=python,go,java,fastapi,mongodb,postgresql,docker&theme=dark)
 
 ## 📊 GitHub Stats
 
-| | |
-|---|---|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=magicaleks&show_icons=true&theme=tokyonight&hide_border=true&height=165) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=magicaleks&layout=compact&theme=tokyonight&hide_border=true&height=165) |
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=magicaleks&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=magicaleks&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400)
 
 ![Streak](https://streak-stats.demolab.com?user=magicaleks&theme=tokyonight&hide_border=true)
 
 ## 🏆 Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=magicaleks&theme=onedark&no-frame=true&row=1&column=7)
-
-## 🗂️ Highlight Projects
-
-> Add your pinned repositories here using the template below:
->
-> ```
-> [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=magicaleks&repo=REPO_NAME&theme=tokyonight)](https://github.com/magicaleks/REPO_NAME)
-> ```
-
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/magicaleks/magicaleks/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/magicaleks/magicaleks/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/magicaleks/magicaleks/output/github-contribution-grid-snake.svg">
-</picture>
+![Trophies](https://github-profile-trophy.vercel.app/?username=magicaleks&theme=onedark&no-frame=true&no-bg=true)
