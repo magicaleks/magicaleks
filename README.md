@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00ADD8&center=true&vCenter=true&width=500&lines=Hey+there!+%F0%9F%91%8B;AI+%26+Backend+Engineer)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=2,3,12,19,24&amp;height=180&amp;section=header&amp;text=Aleks%20Zenitsin&amp;fontSize=52&amp;fontColor=ffffff&amp;fontAlign=50&amp;fontAlignY=36&amp;desc=AI%20and%20Backend%20Engineer&amp;descFontSize=20&amp;descFontColor=ffffff&amp;descAlign=50&amp;descAlignY=56&amp;animation=fadeIn" alt="Header" width="100%">
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/magicaleks)
 ![Profile Views](https://komarev.com/ghpvc/?username=magicaleks&color=00ADD8&style=for-the-badge)
@@ -97,12 +97,7 @@ void main() {
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=magicaleks&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=magicaleks&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400)
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
 
 ![Streak](https://streak-stats.demolab.com?user=magicaleks&theme=tokyonight&hide_border=true)
-
-## 🏆 Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=magicaleks&theme=onedark&no-frame=true&no-bg=true)
